@@ -1,4 +1,4 @@
-![Untitled (3)](https://github.com/westnowise/fer2013plus/assets/98007431/015868e4-15c6-4624-835a-a4d6ad585e70)# 😀fer2013plus😂
+# 😀fer2013plus😂
 ![Untitled](https://github.com/westnowise/fer2013plus/assets/98007431/c07aba3a-13de-4c9c-a086-f058884a0aac)
 
 ## ⚙️요약
@@ -24,16 +24,17 @@ VGG19
     - Optimizer: SGD+Momentum
     - LR: 0.01
     - ⇒ ResNet보다 VGG의 모델이 더 좋은 성능을 보임
+
 ![Untitled (2)](https://github.com/westnowise/fer2013plus/assets/98007431/6c93765d-521b-4e1f-b6a6-ccb4d52b18b0)
 ![Untitled (1)](https://github.com/westnowise/fer2013plus/assets/98007431/7d55c7c0-2b15-49b4-82ff-e326f8dbdbb0)
 ![Untitled (3)](https://github.com/westnowise/fer2013plus/assets/98007431/4bcae06d-1bce-4a2b-9ad4-9522cf86dfca)
 
 
 ### 하이퍼 파라미터 조정
-    - Optimizer: SGD+Momentum → Adam
-    - Dropout
-    - Learning rate: 0.01 → 0.001, 0.1
-    - ⇒ lr=0.001의 그래프 결과가 가장 좋았으나, epoch 늘린 후 과적합 형태를 보임
+- Optimizer: SGD+Momentum → Adam
+- Dropout
+- Learning rate: 0.01 → 0.001, 0.1
+- ⇒ lr=0.001의 그래프 결과가 가장 좋았으나, epoch 늘린 후 과적합 형태를 보임
 ![Untitled (1)](https://github.com/westnowise/fer2013plus/assets/98007431/8b15b045-01e8-4fd6-827e-56270582aa00)
 ![Untitled (5)](https://github.com/westnowise/fer2013plus/assets/98007431/8ac04cfb-351c-40ff-884d-1fc69c0acb44)
 ![Untitled (3)](https://github.com/westnowise/fer2013plus/assets/98007431/0c887cb8-9775-491d-96ce-f0ed171ab871)
