@@ -24,7 +24,7 @@ VGG19
     - Optimizer: SGD+Momentum
     - LR: 0.01
     - ⇒ ResNet보다 VGG의 모델이 더 좋은 성능을 보임
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/97fb822e-b52f-496f-9213-da9a8b169502/97a160f8-79b4-4904-b833-791bbc82aad9/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/97fb822e-b52f-496f-9213-da9a8b169502/97a160f8-79b4-4904-b833-791bbc82aad9)
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/97fb822e-b52f-496f-9213-da9a8b169502/62cf3f9a-38c4-4314-bf4e-efebde63f8a3/Untitled.png)
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/97fb822e-b52f-496f-9213-da9a8b169502/655e34cb-e349-4aad-83df-afeb19fdbf09/Untitled.png)
 
